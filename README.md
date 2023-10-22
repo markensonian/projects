@@ -12,3 +12,5 @@ Conflict project has me talking about a real estate negotiation. I used the meth
 Business 14 project has me do a financial analysis on the pros and cons of getting a Valhalla car. It was tough and long (as is the nature of STEM) using Google Sheets and Word but in the end, I finished the analysis and realized I could not afford the car.
 
 Business 11 has me talk about electric cars. It was successful in how it was delivered as I found myself talking about the environment a lot though, part of this was on video.
+
+Promotional project has me and a team talk about how an organization can be better marketed. We talked about how using different social media sites for different purposes would have an impact. Of course, it worked out and more people got involved online and in person.
